@@ -1,0 +1,12 @@
+/* Global styles moved to App.css for StudentHub */
+
+/* Smooth fonts */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
